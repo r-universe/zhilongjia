@@ -1,9 +1,9 @@
 [
   {
-    "package": "DNMF",
-    "oncran": true
+    "package": "cogena"
   },
   {
-    "package": "cogena"
+    "package": "DNMF",
+    "oncran": true
   }
 ]
