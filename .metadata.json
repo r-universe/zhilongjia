@@ -1,9 +1,0 @@
-[
-  {
-    "package": "cogena"
-  },
-  {
-    "package": "DNMF",
-    "oncran": true
-  }
-]
