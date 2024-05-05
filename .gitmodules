@@ -5,6 +5,3 @@
 [submodule "DNMF"]
 	path = DNMF
 	url = https://github.com/zhilongjia/dnmf
-[submodule "cogena"]
-	path = cogena
-	url = https://github.com/zhilongjia/cogena
